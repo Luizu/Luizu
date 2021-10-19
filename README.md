@@ -1,6 +1,6 @@
 <h2> Hey, I'm Luiz Castilho! <img src="https://media.giphy.com/media/U2912TxYgm2Nyg549S/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
-<p><em>I'm studying Software Enginner at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"></br>Seeking for my first opportunity to start working with development <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="30"> 
+<p><em>I'm studying Software Enginner at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"></br>Junior Software Developer at ATW Delivery Brands<img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: luiz-castilho](https://img.shields.io/badge/-luizcastilho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-castilho/)](https://www.linkedin.com/in/luiz-castilho/)
