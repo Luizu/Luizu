@@ -21,24 +21,10 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luizu&layout=compact">
 
 ## Technologies I Know
-<img src = 'https://github.com/luizu/luizu/blob/main/images/react.svg' width='30'/>
- <img src = 'https://github.com/luizu/luizu/blob/main/images/next.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/html.svg' width='30'/>
- <img src = 'https://github.com/luizu/luizu/blob/main/images/css.svg' width='30'/>
- <img src = 'https://github.com/luizu/luizu/blob/main/images/js.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/ts.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/nodejs.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/styled.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/prisma.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/rn.svg' width='30'/> 
+<img src = 'https://github.com/luizu/luizu/blob/main/images/react.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/next.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/html.svg' width='30'/><img src = 'https://github.com/luizu/luizu/blob/main/images/css.svg' width='30'/><img src = 'https://github.com/luizu/luizu/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/ts.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/nodejs.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/styled.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/prisma.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/rn.svg' width='30'/> 
 
   ## Technologies I Use
- <img src = 'https://github.com/luizu/luizu/blob/main/images/next.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/ts.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/nodejs.svg' width='30'/>
- <img src = 'https://github.com/luizu/luizu/blob/main/images/prisma.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/wp.svg' width='30'/> 
- <img src = 'https://github.com/luizu/luizu/blob/main/images/php.svg' width='30'/> 
+ <img src = 'https://github.com/luizu/luizu/blob/main/images/next.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/ts.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/nodejs.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/prisma.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/wp.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/php.svg' width='30'/> 
 
  ## Who am I?
  ```typescript
